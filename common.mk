@@ -7,7 +7,6 @@ PRODUCT_PACKAGES += \
    lights.montblanc \
    gralloc.montblanc \
    hwcomposer.montblanc \
-   copybit.montblanc \
    libblt_hw
 
 # STE Media
